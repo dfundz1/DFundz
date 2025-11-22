@@ -1,0 +1,1 @@
+Damagefundz Fan App lets fans connect directly with Damagefundz through a GPT-4 powered chat, save conversations, get exclusive updates, and support the creator via Ko-fi. Mobile-friendly, secure, and built for interactive fan engagement and community connection.
